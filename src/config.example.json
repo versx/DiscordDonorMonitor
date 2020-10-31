@@ -5,7 +5,7 @@
 	"logChannel": "",
 	"autoRemoveDonorRoles": true,
 	"servers": [
-		{ "id": "", "role": "" },
-		{ "id": "", "role": "" }
+		{ "id": "", "roleId": "" },
+		{ "id": "", "roleId": "" }
 	]
 }
